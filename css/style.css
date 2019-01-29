@@ -845,9 +845,6 @@ body {
   #header-post #menu-icon {
     display: none;
   }
-  #header-post #actions {
-    display: none;
-  }
 }
 @media screen and (max-width: 1199px) {
   #header-post #toc {
